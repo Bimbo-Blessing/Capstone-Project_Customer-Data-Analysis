@@ -12,7 +12,7 @@ This project presents the analysis of customers' data for a subscription service
 
 [Data Manipulation](#data-manipulation)
 
-[Tools USed](#tools-used)
+[Tools Used](#tools-used)
 
 [Dashboard Overview](#dashboard-overview)
 
@@ -52,7 +52,7 @@ The dataset for this analysis was provided by the Incubator Hub(LITA), an organi
 
 - Data Cleaning: ENsured data quality by removing duplicates entries.
 
-## Tools USed
+## Tools Used
 - Microsoft Excel(Download here)
 - SQL
 - Power BI
