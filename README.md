@@ -5,13 +5,20 @@
 This project presents the analysis of customers' data for a subscription service to identify segments and trends. Also, to understand customers' behaviours, track subscription types and to identify key trends in cancellations and renewals.
 
 [Data Description](#data-description)
+
 [Basic Statistics about the Dataset](#basic-statistics-about-the-dataset)
+
 [Data Collection](#data-collection)
+
 [Data Manipulation](#data-manipulation)
+
 [Tools USed](#tools-used)
+
 [Dashboard Overview](#dashboard overview)
 [Data Analysis and Insight Generation ](#data-analysis-and-insight-generation)
+
 [Recommendations](#recommendations)
+
 [Conclusion](#conclusion)
 
 
