@@ -14,7 +14,7 @@ This project presents the analysis of customers' data for a subscription service
 
 [Tools USed](#tools-used)
 
-[Dashboard Overview](#dashboard overview)
+[Dashboard Overview](#dashboard-overview)
 
 [Data Analysis and Insight Generation ](#data-analysis-and-insight-generation)
 
