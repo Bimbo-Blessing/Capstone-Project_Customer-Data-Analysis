@@ -71,8 +71,9 @@ The dataset for this analysis was provided by the Incubator Hub(LITA), an organi
 - There were 20 Distinct Customers with the following Regional breakdown:
   East= 5, West= 5, South= 5, and North= 5.
 
-  |Region|Count of Orders|Sum of Revenue|Sum of cancelled Sub|Types|
-  |------|---------------|--------------|--------------------|-----|
+  |Region|Count of Orders|Sum of Revenue|Sum of cancelled Sub|Types     |
+  |------|---------------|--------------|--------------------|----------|
+  |East  | 8,488         | 16,958,763   | 16,976             |False     | 
   
 ## Recommendations
 
