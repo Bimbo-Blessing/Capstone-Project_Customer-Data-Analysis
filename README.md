@@ -41,8 +41,10 @@ The dataset includes the following:
   - Basic =
   - Premium =
   - Standard =
+    
   Average Subscription Duration =
-Most Popular Subscription Type =
+
+  Most Popular Subscription Type =
 
 ## Data Collection
 
@@ -50,7 +52,7 @@ The dataset for this analysis was provided by the Incubator Hub(LITA), an organi
 
 ## Data Manipulation
 
-- Data Cleaning: ENsured data quality by removing duplicates entries.
+- Data Cleaning: Ensured data quality by removing duplicates entries.
 
 ## Tools Used
 - Microsoft Excel(Download here)
@@ -58,6 +60,9 @@ The dataset for this analysis was provided by the Incubator Hub(LITA), an organi
 - Power BI
 
 ## Dashboard Overview
+
+![Screenshot (5)(1)(1)](https://github.com/user-attachments/assets/7a404d38-d570-4bf0-8303-9d718afc87d4)
+
 
 
 ## Data Analysis and Insight Generation 
