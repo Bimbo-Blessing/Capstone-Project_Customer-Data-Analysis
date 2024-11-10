@@ -37,14 +37,14 @@ The dataset includes the following:
 - Revenue: This is the total amount realised from each customer's subscription.Subscription Duration: This is the time lag for each of the subscription by the customers.
 
   ## Basis Statistics about the Dataset
-  Subscription Pattern
-  - Basic =
-  - Premium =
-  - Standard =
+  Subscription Types
+  - Basic = N33,776,735
+  - Premium = N16,899,064
+  - Standard = N16,864,376
     
-  Average Subscription Duration =
+  Average Subscription Duration = 365.35
 
-  Most Popular Subscription Type =
+  Most Popular Subscription Type = Basic
 
 ## Data Collection
 
@@ -66,7 +66,10 @@ The dataset for this analysis was provided by the Incubator Hub(LITA), an organi
 
 
 ## Data Analysis and Insight Generation 
-
+- After the data cleaning was done, the total count of orders was 33,787. The Total Revenue from the Subscription Pattern was N67,540,175, while the Average Revenue was N1,999. The Average Subscription duration was 365.35. 
+- Out of the three subscription types; Basic was the most popular with the total revenue of N33,776,735.
+- There were 20 Distinct Customers with the following Regional breakdown:
+  East= 5, West= 5, South= 5, and North= 5.
 ## Recommendations
 
 ## Conclusion
