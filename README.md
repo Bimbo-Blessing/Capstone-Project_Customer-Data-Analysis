@@ -70,6 +70,8 @@ The dataset for this analysis was provided by the Incubator Hub(LITA), an organi
 - Out of the three subscription types; Basic was the most popular with the total revenue of N33,776,735.
 - There were 20 Distinct Customers with the following Regional breakdown:
   East= 5, West= 5, South= 5, and North= 5.
+
+  |Region|Count of Orders|Sum of Revenue|Sum of cancelled Sub|Type of Cancelled|
 ## Recommendations
 
 ## Conclusion
