@@ -81,6 +81,7 @@ The dataset for this analysis was provided by the Incubator Hub(LITA), an organi
   |South |8,446          |N16,899,064   |11,828   |True=5,064  False=6,764|
   |North |8,443          |N16,817,972   |11,799   |True=5,067  False=6,732|
   
+  
 
   The Monthly Revenue Trends Dashboard is shown below:
 
