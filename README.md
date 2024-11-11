@@ -74,10 +74,12 @@ The dataset for this analysis was provided by the Incubator Hub(LITA), an organi
   |Region|Count of Orders|Sum of Revenue|Cancelled|Types                  |
   |------|---------------|--------------|---------|-----------------------|
   |East  | 8,488         |N16,958,763   | 16,976  |False                  |
-  |West  | 8,420         |N16,864,376   | 11,796  |True=5,044, False=6,752|
+  |West  | 8,420         |N16,864,376   | 11,796  |True=5,044  False=6,752|
 
   |Region|Count of Orders|Sum of Revenue|Cancelled|Types                  |
   |------|---------------|--------------|---------|-----------------------|
+  |South |8,446          |N16,899,064   |11,828   |True=5,064  False=6,764|
+  |North |8,443          |N16,817,972   |11,799   |True=5,067  False=6,732|
 
 
   ## Recommendations
