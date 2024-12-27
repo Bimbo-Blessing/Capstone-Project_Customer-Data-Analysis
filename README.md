@@ -89,6 +89,19 @@ The dataset for this analysis was provided by the Incubator Hub(LITA), an organi
 ![Screenshot (6)(1)(1)](https://github.com/user-attachments/assets/e8b6be4a-171d-4b9d-9e66-6b59b8edb9b9)
 
 
+
+•	The most popular subscription is Basic with a total revenue of N33,776,735, followed by Premium with a total revenue of N16,899,064, while Standard is N16,864,376.
+•	Revenue from each Region is as follows:
+East = N16,958,763,   North = N16,817,972,  South =N16,899,064,  West = N16,864,376
+•	The most popular subscription is Basic with a total number of 10 customers, while Premium and Standard share 5 customers each.
+•	The total number of active subscriptions is 37,224, while the total number of cancelled subscription is 15,175. There was no cancelled subscription from the East. 
+•	The top 3 Regions by subscription cancellations is as follows:
+North = 5,067,    South = 5,064,    West= 5,044
+•	The active subscriptions from the following Regions are:
+East= 16,976,  South= 6,764,   West = 6,752,  North= 6,732.
+
+
+
   ## Recommendations
 
 ## Conclusion
